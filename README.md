@@ -1,8 +1,8 @@
-# 🖥️ ONYX-16 — Lazarus Machinae
+# 🖥️ ONYX-16 - Lazarus Machinae
 
-> *"The physical hardware is extinct. There is no machine left on Earth that can execute these programs. We have the software — but the body it lived in is dead."*
+> *"The physical hardware is extinct. There is no machine left on Earth that can execute these programs. We have the software  but the body it lived in is dead."*
 
-A full software emulation of the **ONYX-16**, a fictional 16-bit computer architecture, built from scratch in C++ with no standard containers. Every hardware component — the processor, memory, mainboard, graphics adapter, keyboard, and display — is faithfully reconstructed from hardware docs, communicating exclusively through a simulated system bus.
+A full software emulation of the **ONYX-16**, a fictional 16-bit computer architecture, built from scratch in C++ with no standard containers. Every hardware component  the processor, memory, mainboard, graphics adapter, keyboard, and display is faithfully reconstructed from hardware docs, communicating exclusively through a simulated system bus.
 
 ---
 
